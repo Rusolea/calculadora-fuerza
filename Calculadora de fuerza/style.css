@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: stretch;
+    /* flex-wrap: nowrap; */
+}
+ table{
+    display: flex;
+    padding-left: ;
+    border-bottom-width: ;
+    align-items: center;
+    flex-direction: column;
+    font-family: arial, sans-serif;
+    /* border-collapse: collapse; */
+    width: 4;
+    }
+      
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: center;
+        padding: 8px;
+        
+      }
+      
+    tr:nth-child(even) {
+        background-color: #dddddd;
+      }
+ }
+
+
+
+
